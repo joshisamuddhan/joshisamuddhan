@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samuddhan Joshi
-- 👀 I’m interested in Software Engineering and Growing.
-- 🌱 I’m currently learning C++ and Competitive Programming.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Samuddhan Joshi.
+- 👀 I’m interested in Computer related sciences.
+- 🌱 I’m currently learning Competitive Coding and DSA.
+- 💞️ I’m looking to collaborate on any project or learning journey.
 - 📫 How to reach me - Email:joshisamuddhan@gmail.com
 
 <!---
